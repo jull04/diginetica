@@ -1,0 +1,13 @@
+.categories__item {
+  list-style: none;
+  color: #333333;
+  text-decoration: none;
+  padding: 8px 16px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.categories__item:hover {
+  background-color: #E2EFFF;
+}

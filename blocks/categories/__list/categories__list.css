@@ -1,0 +1,8 @@
+.categories__list {
+  color: #333333;
+  text-decoration: none;
+}
+
+.categories__list:first-child {
+  padding: 0;
+}

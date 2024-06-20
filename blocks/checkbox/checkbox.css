@@ -1,0 +1,40 @@
+
+.checkbox-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  height: 180px;
+  overflow: scroll;
+}
+
+.checkbox-list__title {
+  font-size: 1.5em;
+}
+
+.checkbox-list__form {
+  display: flex;
+  flex-direction: column;
+}
+
+.checkbox-list__item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.checkbox-list__input {
+  margin-right: 10px;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #AAAAAA;
+  border-radius: 1px;
+}
+
+.checkbox-list__label {
+  width: 200px;
+}
+
+.checkbox-list__number {
+  color: #AAAAAA;
+  margin-right: 20px;
+}

@@ -3,3 +3,9 @@
   flex-direction: column;
   width: 333px;
 }
+
+@media screen and (max-width: 1440px) {
+  .card__item {
+    width: 213px;
+  }
+}

@@ -1,0 +1,12 @@
+.main {
+  display: flex;
+  flex-direction: row;
+  gap: 36px;
+}
+
+.filter {
+  width: 280px;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}

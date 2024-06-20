@@ -7,3 +7,12 @@
   display: flex;
   align-items: center;
 }
+
+.search__container-small {
+  padding: 10px 12px;
+  border: 1px solid #D5D5D5;
+  border-radius: 5px;
+  gap: 8px;
+  display: flex;
+  align-items: center;
+}
