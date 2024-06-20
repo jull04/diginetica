@@ -1,3 +1,7 @@
 .card__old-price {
   text-decoration: line-through;
+  font-size: 12px;
+  line-height: 14px;
+  color: #AAAAAA;
+  margin: 0;
 }

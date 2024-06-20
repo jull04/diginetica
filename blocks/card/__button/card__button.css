@@ -1,0 +1,16 @@
+.card__button {
+  padding: 12px;
+  border: 1px solid #73AFF4;
+  border-radius: 4px;
+  background: transparent;
+  width: 75px;
+  box-sizing: border-box;
+  font-size: 14px;
+  line-height: 14px;
+  color: #73AFF4;
+}
+
+.card__button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}

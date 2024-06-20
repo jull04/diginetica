@@ -2,10 +2,17 @@
   display: flex;
   flex-direction: column;
   width: 333px;
+  gap: 16px;
 }
 
 @media screen and (max-width: 1440px) {
   .card__item {
     width: 213px;
+  }
+}
+
+@media (max-width: 600px) {
+  .card__item {
+    width: 165px;
   }
 }

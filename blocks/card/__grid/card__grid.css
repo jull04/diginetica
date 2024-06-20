@@ -5,3 +5,23 @@
   gap: 10px;
   max-width: 0 auto;
 }
+
+@media (max-width: 1200px) {
+  .card__grid {
+    grid-template-columns: repeat(3, 1fr); /* Три колонки для экранов менее 1200px */
+  }
+}
+
+@media (max-width: 900px) {
+  .card__grid {
+    grid-template-columns: repeat(2, 1fr); /* Две колонки для экранов менее 900px */
+  }
+}
+
+@media (max-width: 600px) {
+  .card__grid {
+    grid-template-columns: repeat(2, 165px); /* Две колонки шириной 165px для экранов менее 600px */
+    justify-content: center; /* Центрирование колонок */
+    gap: 12px;
+  }
+}
