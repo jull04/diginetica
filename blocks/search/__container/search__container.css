@@ -1,0 +1,9 @@
+.search__container {
+  padding: 4px 16px;
+  border: 1px solid #73AFF4;
+  border-radius: 8px;
+  gap: 8px;
+  width: 479px;
+  display: flex;
+  align-items: center;
+}

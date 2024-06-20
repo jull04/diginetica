@@ -1,0 +1,11 @@
+.header__catalog {
+  padding: 8px 24px;
+  border: 1px solid #73AFF4;
+  border-radius: 8px;
+  background: transparent;
+}
+
+.header__catalog:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}

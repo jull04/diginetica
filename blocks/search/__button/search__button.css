@@ -1,0 +1,11 @@
+.search__button {
+  background-image: url(../../../images/Frame.svg);
+  height: 24px;
+  width: 24px;
+  border: none;
+}
+
+.search__button:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}

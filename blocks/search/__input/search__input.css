@@ -1,0 +1,8 @@
+.search__input {
+  border: none;
+  width: 70%;
+}
+
+.search__input:focus {
+  outline: none;
+}

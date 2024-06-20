@@ -1,0 +1,10 @@
+.card__discount {
+  padding: 6px 0;
+  border-radius: 4px;
+  background-color: #7397F5;
+  color: white;
+  size: 14px;
+  line-height: 14px;
+  width: 48px;
+  text-align: center;
+}

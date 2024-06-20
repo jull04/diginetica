@@ -1,0 +1,11 @@
+.card__image {
+  background-color: #F8F8FA;
+  background-image: url(../../../images/background.svg);
+  background-repeat: no-repeat;
+  height: 200px;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 12px;
+}

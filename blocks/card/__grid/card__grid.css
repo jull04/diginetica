@@ -1,0 +1,7 @@
+.card__grid {
+  display: grid;
+  grid-template-rows: auto auto auto; /* Три ряда с автоматической высотой */
+  grid-template-columns: repeat(4, 1fr); /* Четыре колонки с равным распределением пространства */
+  gap: 10px;
+  max-width: 0 auto;
+}

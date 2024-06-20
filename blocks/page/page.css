@@ -1,0 +1,9 @@
+.page {
+  min-width: 375px;
+  max-width: 1920px;
+  margin: 0 100px;
+  font-family: 'Inter', Arial, sans-serif;
+  color: #393939;
+  box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+}
