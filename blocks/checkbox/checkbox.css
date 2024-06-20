@@ -1,19 +1,9 @@
-
 .checkbox-list {
   display: flex;
   flex-direction: column;
   gap: 12px;
   height: 180px;
   overflow: scroll;
-}
-
-.checkbox-list__title {
-  font-size: 1.5em;
-}
-
-.checkbox-list__form {
-  display: flex;
-  flex-direction: column;
 }
 
 .checkbox-list__item {
@@ -32,6 +22,8 @@
 
 .checkbox-list__label {
   width: 200px;
+  font-size: 14px;
+  line-height: 16px;
 }
 
 .checkbox-list__number {

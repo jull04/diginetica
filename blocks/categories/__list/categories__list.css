@@ -5,4 +5,5 @@
 
 .categories__list:first-child {
   padding: 0;
+  margin: 0;
 }
